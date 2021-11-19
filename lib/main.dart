@@ -7,7 +7,7 @@ void main() {
       home: Scaffold(
         backgroundColor: Colors.blue.shade200,
         appBar: AppBar(
-          title: Text('Dice'),
+          title: Text('Ask me Anything'),
           backgroundColor: Colors.blue.shade800,
         ),
         body: Magic(),
